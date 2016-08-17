@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.FdcRabbitApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.405 sec - in com.example.FdcRabbitApplicationTests
